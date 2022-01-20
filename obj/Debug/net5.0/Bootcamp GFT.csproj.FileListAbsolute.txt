@@ -1,0 +1,16 @@
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\bin\Debug\net5.0\Bootcamp GFT.exe
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\bin\Debug\net5.0\Bootcamp GFT.deps.json
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\bin\Debug\net5.0\Bootcamp GFT.runtimeconfig.json
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\bin\Debug\net5.0\Bootcamp GFT.runtimeconfig.dev.json
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\bin\Debug\net5.0\Bootcamp GFT.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\bin\Debug\net5.0\ref\Bootcamp GFT.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\bin\Debug\net5.0\Bootcamp GFT.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\obj\Debug\net5.0\Bootcamp GFT.csproj.AssemblyReference.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\obj\Debug\net5.0\Bootcamp GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\obj\Debug\net5.0\Bootcamp GFT.AssemblyInfoInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\obj\Debug\net5.0\Bootcamp GFT.AssemblyInfo.cs
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\obj\Debug\net5.0\Bootcamp GFT.csproj.CoreCompileInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\obj\Debug\net5.0\Bootcamp GFT.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\obj\Debug\net5.0\ref\Bootcamp GFT.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\obj\Debug\net5.0\Bootcamp GFT.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Bootcamp Localiza\Bootcamp GFT\obj\Debug\net5.0\Bootcamp GFT.genruntimeconfig.cache
